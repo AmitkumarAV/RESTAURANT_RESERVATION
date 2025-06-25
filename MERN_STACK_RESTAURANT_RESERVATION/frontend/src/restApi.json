@@ -73,25 +73,25 @@
         "team": [
             {
                 "id": 1,
-                "image": "./team_member_1.png",
+                "image": "./head.jpg",
                 "name": "AMIT KUMAR ",
                 "designation": "Founder & Head"
             },
             {
                 "id": 2,
-                "image": "./team_member_2.png",
-                "name": "RAJ VERMA",
-                "designation": "Sous Chef"
+                "image": "./team_member_patil.jpg",
+                "name": "NITIN PATIL",
+                "designation": "Master Chef"
             },
             {
                 "id": 3,
-                "image": "./team_member_3.png",
-                "name": "SAMJEEV KAPOOR",
+                "image": "./team_member_viral.jpg",
+                "name": "AKABARI VIRAL",
                 "designation": "Fast Food Chef"
             },
             {
                 "id": 4,
-                "image": "./team_member_4.png",
+                "image": "./vikas.jpeg",
                 "name": "VIKAS KHANNA",
                 "designation": "Senior Chef"
             }
